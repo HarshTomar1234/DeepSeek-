@@ -1,1 +1,1 @@
-This reop will contain all my experiments with deepseek llm architecture
+This repo will contain all my experiments with deepseek llm architecture
